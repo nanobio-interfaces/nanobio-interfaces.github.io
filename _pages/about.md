@@ -2,7 +2,7 @@
 layout: about
 title: Sobre o NanoBio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Grupo de Pesquisa em NanoBio Interfaces
 
 profile:
   align: right
