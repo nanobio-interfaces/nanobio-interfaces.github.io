@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Linhas de Pesquisa
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
