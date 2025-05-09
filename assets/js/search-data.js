@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-ii-workshop-do-inct-3d-saúde-14-a-16-de-maio-de-2025-centro-cultural-da-ufrgs",
+          title: 'II Workshop do INCT_3D-Saúde (14 a 16 de maio de 2025 - Centro...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
