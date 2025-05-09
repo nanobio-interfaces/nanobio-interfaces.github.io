@@ -6,7 +6,7 @@ subtitle: Grupo de Pesquisa em NanoBio Interfaces
 
 profile:
   align: right
-  image: LogoOficial_ Degrade.png
+  image: logo_nanobio.png
   image_circular: false # crops the image to make it circular
   more_info: >
   #  <p>555 your office number</p>
