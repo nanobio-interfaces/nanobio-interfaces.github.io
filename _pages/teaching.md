@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Linhas de Pesquisa
-description: Materials for courses you taught. Replace this text with your description.
+description: Aprimorar racionalmente propriedades físico-químicas através da manipulação da estrutura da matéria em níveis micro e macroscópicos. Os novos materiais obtidos podem ser empregados nas Ciências da Saúde em aplicações sofisticadas para diagnóstico e tratamento de doenças, dentro do conceito de Saúde Única, sendo a saúde indissociável de seres humanos, animais e meio ambiente.
 nav: true
 nav_order: 6
 ---
