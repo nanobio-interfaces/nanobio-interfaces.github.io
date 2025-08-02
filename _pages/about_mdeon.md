@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div style="text-align: justify">
+Professora Adjunta no Departamento de Farmacociências da Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Graduada em Química Bacharel pela Universidade de Passo Fundo (2012), Mestra (2015) e Doutora (2019) em Química pela Universidade Federal do Rio Grande do Sul (UFRGS). Foi pesquisadora em nível de pós-doutorado no Programa de Pós-Graduação em Ciências Farmacêuticas da UFRGS trabalhando na área de arquitetura de nanomateriais combinada com manufatura aditiva (impressão 3D) para customização de formulações farmacêuticas. Atualmente trabalha na síntese de materiais inorgânicos nanoestruturados aliados à impressão 3D para design de sistemas antimicrobianos e de liberação controlada de fármacos. Possui interesses que envolvem as áreas de Química de Materiais e Química Inorgânica.
+</div>
