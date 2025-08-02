@@ -1,7 +1,9 @@
 <div style="text-align: justify">
-<p>Professora Adjunta no Departamento de Farmacociências da Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).</p> 
-  
-<p>Graduada em Química Bacharel pela Universidade de Passo Fundo (2012), Mestra (2015) e Doutora (2019) em Química pela Universidade Federal do Rio Grande do Sul (UFRGS). Foi pesquisadora em nível de pós-doutorado no Programa de Pós-Graduação em Ciências Farmacêuticas da UFRGS trabalhando na área de arquitetura de nanomateriais combinada com manufatura aditiva (impressão 3D) para customização de formulações farmacêuticas.</p>
 
-<p>Atualmente trabalha na síntese de materiais inorgânicos nanoestruturados aliados à impressão 3D para design de sistemas antimicrobianos e de liberação controlada de fármacos. Possui interesses que envolvem as áreas de Química de Materiais e Química Inorgânica.</p>
+<p>Graduado em Química Licenciatura pela Universidade Luterana do Brasil (2009). Mestrado em Química na área de concentração de Química Teórica (UFRGS - 2012) e Doutorado em Química também na área de Química Teórica (UFRGS - 2016) com um período sanduíche (PDSE - Programa de Doutorado Sanduíche no Exterior, CAPES) no Max-Planck Institute for Polymer Research. Período de Pós-doutorado no Instituto Charles Sadron em um projeto em parceria com a empresa LOreal de Paris.</p>
+
+<p>Professor Adjunto no Departamento de Farmacociências da Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).</p>
+
+<p>Atualmente trabalha nas áreas de Química de Materiais e Química Teórica (simulações das interações de fármacos e o DNA, simulações de polímeros em solução e membranas).</p>
+
 </div>
