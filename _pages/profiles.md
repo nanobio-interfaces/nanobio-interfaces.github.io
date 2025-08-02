@@ -19,7 +19,7 @@ profiles:
       <p>Sala 304C - Pérdio 1</p>
       <p>90050170 - Porto Alegre, Brasil</p>
   - align: left
-    image: tiago_espinosa.jpeg
+    image: tiago_espinosa.png
     content: about_teo.md
     image_circular: false # crops the image to make it circular
     more_info: >
