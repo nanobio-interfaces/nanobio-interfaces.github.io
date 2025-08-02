@@ -15,15 +15,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Departamento de Farmacociências</p>
-      <p>Sala 304C - Pérdio 1</p>
       <p>Rua Sarmento Leite, 245</p>
+      <p>Sala 304C - Pérdio 1</p>
       <p>90050170 - Porto Alegre, Brasil</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: tiago_espinosa.jpeg
+    content: about_teo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Departamento de Farmacociências</p>
+      <p>Rua Sarmento Leite, 245</p>
+      <p>Sala 304C - Pérdio 1</p>
+      <p>90050170 - Porto Alegre, Brasil</p>
 ---
