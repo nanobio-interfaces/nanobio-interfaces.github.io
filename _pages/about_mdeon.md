@@ -1,4 +1,6 @@
 <div style="text-align: justify">
+<p><b>Prof<sup>a</sup> Dr<sup>a</sup> Monique Deon</b></p>
+
 <p>Professora Adjunta no Departamento de Farmacociências da Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).</p> 
   
 <p>Graduada em Química Bacharel pela Universidade de Passo Fundo (2012), Mestra (2015) e Doutora (2019) em Química pela Universidade Federal do Rio Grande do Sul (UFRGS). Foi pesquisadora em nível de pós-doutorado no Programa de Pós-Graduação em Ciências Farmacêuticas da UFRGS trabalhando na área de arquitetura de nanomateriais combinada com manufatura aditiva (impressão 3D) para customização de formulações farmacêuticas.</p>
