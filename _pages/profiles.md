@@ -14,11 +14,11 @@ profiles:
     content: about_mdeon.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>Profa. Dra. Monique Deon</p>
+    
   - align: left
     image: tiago_espinosa.png
     content: about_teo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>Prof. Dr. Tiago Espinosa</p>
+
 ---
