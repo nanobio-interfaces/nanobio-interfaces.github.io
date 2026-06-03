@@ -6,7 +6,7 @@ description: Mestrandos do grupo NanoBio Interfaces
 nav: false
 
 members:
-  - name: Camila Steffani Caovila
+  - name: Camila Steffani Caovilla
     image: camila_caovila.jpg
     description: Mestranda em Biociências (UFCSPA)
     lattes: http://lattes.cnpq.br/8998732792226475
