@@ -19,11 +19,11 @@ members:
     description: Química Medicinal (UFCSPA)
     lattes: http://lattes.cnpq.br/7445276600021938
   - name: Marcos Eduardo Fink
-    image: marcos_fink.jpg
+    image: marcos_fink1.jpg
     description: Farmácia (UFCSPA)
     lattes: http://lattes.cnpq.br/0389086494782350
   - name: Murilo Texeira Muller
-    image: murilo_muller.jpg
+    image: murilo_teixeira1.jpg
     description: Química Medicinal (UFCSPA)
     lattes: http://lattes.cnpq.br/9502021103023273
   - name: Tallys Tressoldi da Silveira
@@ -31,7 +31,7 @@ members:
     description: Química Medicinal (UFCSPA)
     lattes: http://lattes.cnpq.br/0130437403879566
   - name: Vitória Gomes Espinosa de Oliveira
-    image: vitoria_oliveira.
+    image: vitoria_oliveira1.jpg
     description: Química Medicinal (UFCSPA)
     lattes: http://lattes.cnpq.br/8857635008046048
 ---
