@@ -23,7 +23,7 @@ members:
     description: Mestrando em Biociências (UFCSPA)
     lattes: http://lattes.cnpq.br/8770663300815385
   - name: Raíssa Rossoni Rodrigues 
-    image: raissa_rossoni.jpeg
+    image: raissa.png
     description: Mestranda em Biociências (UFCSPA)
     lattes: http://lattes.cnpq.br/1871605041214064
 ---
